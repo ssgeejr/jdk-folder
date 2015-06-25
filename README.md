@@ -9,4 +9,4 @@ rename the folder
 
 if \-m was provided move c:\tmp\java-%JAVA_VERSION% to the %PROGRAMFILES%\
 
-if \-m \<dest\> was provided, move c:\tmp\java-%JAVA_VERSION% to the new \<dest\> location 
+if \-m \<dest\> was provided, move c:\tmp\java-%JAVA_VERSION% to the \<dest\> location 

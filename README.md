@@ -6,5 +6,7 @@ This was so very painful for me to write as my batch skills are awful! Luckily, 
 This script will move the JDK file you provide to c:\tmp
 Unzip it, unzip it again, create the jars from the pack files
 rename the folder
+
 if \-m was provided move the folder %PROGRAMFILES%
+
 if \-m \<dest\> was provided, move the folder to the new location 

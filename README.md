@@ -7,6 +7,6 @@ This script will move the JDK file you provide to c:\tmp
 Unzip it, unzip it again, create the jars from the pack files
 rename the folder
 
-if \-m was provided move the folder %PROGRAMFILES%
+if \-m was provided move c:\tmp\java-%JAVA_VERSION% to the %PROGRAMFILES%\
 
-if \-m \<dest\> was provided, move the folder to the new location 
+if \-m \<dest\> was provided, move c:\tmp\java-%JAVA_VERSION% to the new \<dest\> location 
